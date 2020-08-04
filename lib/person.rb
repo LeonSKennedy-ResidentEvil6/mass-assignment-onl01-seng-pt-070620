@@ -6,5 +6,6 @@ class Person
   attributes = {}
 
   def initialize()
+    
 
 end
