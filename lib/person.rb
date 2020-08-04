@@ -6,6 +6,6 @@ class Person
   attributes = {}
 
   def initialize()
-    attributes.each 
+    attributes.each do {|attribute| }
 
 end
